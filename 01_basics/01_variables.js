@@ -9,8 +9,10 @@ accountCity = "belgaum" */
 accountEmail = "xyz@gmail.com"
 accountPassword = "2125455556"
 accountCity = "banglr"
+let accountstate;
 
 console.log(accountId);
+
 
 /*
 Prefer not to use var
